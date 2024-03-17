@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP-net-Crud-With-UI.props" />
+</Project>

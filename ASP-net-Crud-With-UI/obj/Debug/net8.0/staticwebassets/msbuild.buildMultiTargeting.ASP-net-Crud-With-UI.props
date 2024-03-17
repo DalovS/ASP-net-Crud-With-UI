@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP-net-Crud-With-UI.props" />
+</Project>
